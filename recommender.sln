@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "recommenderlib", "recommenderlib\recommenderlib.fsproj", "{9569660D-01BA-4DCD-B732-5138BE8E95D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9569660D-01BA-4DCD-B732-5138BE8E95D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9569660D-01BA-4DCD-B732-5138BE8E95D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9569660D-01BA-4DCD-B732-5138BE8E95D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9569660D-01BA-4DCD-B732-5138BE8E95D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = recommenderlib\recommenderlib.fsproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+		$0.ChangeLogPolicy = $3
+		$3.UpdateMode = Nearest
+		$3.MessageStyle = $4
+		$4.LineAlign = 0
+		$3.inheritsSet = Mono
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
