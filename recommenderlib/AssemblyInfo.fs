@@ -1,7 +1,6 @@
-﻿module recommenderlib.AssemblyInfo
+﻿module recommender.AssemblyInfo
 open System.Reflection
 open System.Runtime.CompilerServices
-
 
 [<assembly: AssemblyTitle("recommenderlib")>]
 [<assembly: AssemblyDescription("Proof of concept for a recommendation engine based on N-dimensional euclidean distance")>]

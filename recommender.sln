@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "recommenderlib", "recommenderlib\recommenderlib.fsproj", "{9569660D-01BA-4DCD-B732-5138BE8E95D2}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "recommenderlib", "recommenderlib\recommenderlib.fsproj", "{9569660D-01BA-4DCD-B732-5138BE8E95D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{CC6CD4D8-B11D-4464-95B5-6EB650C7B6DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,13 @@ Global
 		{9569660D-01BA-4DCD-B732-5138BE8E95D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9569660D-01BA-4DCD-B732-5138BE8E95D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9569660D-01BA-4DCD-B732-5138BE8E95D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6CD4D8-B11D-4464-95B5-6EB650C7B6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6CD4D8-B11D-4464-95B5-6EB650C7B6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6CD4D8-B11D-4464-95B5-6EB650C7B6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6CD4D8-B11D-4464-95B5-6EB650C7B6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = recommenderlib\recommenderlib.fsproj
@@ -27,8 +36,5 @@ Global
 		$3.MessageStyle = $4
 		$4.LineAlign = 0
 		$3.inheritsSet = Mono
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

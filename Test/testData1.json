@@ -1,0 +1,179 @@
+﻿[
+	{
+		"uri": "http://google.com/",
+		"tags": [
+			{
+				"name": "search",
+				"weight": 110
+			},
+			{
+				"name": "google",
+				"weight": 45
+			}
+		]
+	},
+	{
+		"uri": "http://yahoo.com/",
+		"tags": [
+			{
+				"name": "search",
+				"weight": 110
+			},
+			{
+				"name": "yahoo",
+				"weight": 45
+			}
+		]
+	},
+	{
+		"uri": "https://help.ubuntu.com/community/HowToAddaLauncher",
+		"tags": [
+			{
+				"name": "ubuntu",
+				"weight": 8
+			},
+			{
+				"name": "launcher",
+				"weight": 14
+			},
+			{
+				"name": "bash",
+				"weight": 2
+			}
+		]
+	},
+	{
+		"uri": "http://aws.amazon.com/architecture/",
+		"tags": [
+			{
+				"name": "amazon",
+				"weight": 20
+			},
+			{
+				"name": "aws",
+				"weight": 14
+			},
+			{
+				"name": "architecture",
+				"weight": 14
+			},
+			{
+				"name": "infrastructure",
+				"weight": 4
+			},
+			{
+				"name": "paas",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"uri": "http://blogs.msdn.com/b/mohamedg/archive/2012/10/21/adding-custom-soap-headers-in-wcf.aspx",
+		"tags": [
+			{
+				"name": ".net",
+				"weight": 5
+			},
+			{
+				"name": "wcf",
+				"weight": 13
+			},
+			{
+				"name": "soap",
+				"weight": 18
+			},
+			{
+				"name": "mvc",
+				"weight": 4
+			},
+			{
+				"name": "microsoft",
+				"weight": 2
+			}
+		]
+	},
+	{
+		"uri": "http://seravo.fi/2013/javascript-the-winning-style",
+		"tags": [
+			{
+				"name": "javascript",
+				"weight": 50
+			},
+			{
+				"name": "node.js",
+				"weight": 24
+			},
+			{
+				"name": "style",
+				"weight": 40
+			},
+			{
+				"name": "guidelines",
+				"weight": 20
+			}
+		]
+	},
+	{
+		"uri": "http://jslinterrors.com/",
+		"tags": [
+			{
+				"name": "javascript",
+				"weight": 50
+			},
+			{
+				"name": "linter",
+				"weight": 60
+			},
+			{
+				"name": "jshint",
+				"weight": 20
+			},
+			{
+				"name": "jslint",
+				"weight": 20
+			}
+		]
+	},
+	{
+		"uri": "http://ericsowell.com/blog/2011/5/6/serving-static-files-from-node-js",
+		"tags": [
+			{
+				"name": "javascript",
+				"weight": 70
+			},
+			{
+				"name": "node.js",
+				"weight": 100
+			},
+			{
+				"name": "webserver",
+				"weight": 20
+			},
+			{
+				"name": "http",
+				"weight": 20
+			},
+			{
+				"name": "static",
+				"weight": 30
+			}
+		]
+	},
+	{
+		"uri": "http://www.jshint.com/docs/",
+		"tags": [
+			{
+				"name": "javascript",
+				"weight": 40
+			},
+			{
+				"name": "node.js",
+				"weight": 20
+			},
+			{
+				"name": "code style",
+				"weight": 30
+			}
+		]
+	}
+]
